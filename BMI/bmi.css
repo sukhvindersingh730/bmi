@@ -1,0 +1,42 @@
+.container{
+    height: 400px;
+    width: 350px;
+    background-color: yellowgreen;
+    border-radius: 10px;
+    border: 5px solid black;
+    box-shadow: 7px 7px 4px red;
+    position: absolute;
+    left: 400px;
+    top: 100px;
+}
+.container h1{
+    text-align: center;
+   
+}
+form input{
+width: 340px;
+height: 40px;
+background: none;
+ box-shadow: 2px 2px 4px black;
+ border: none;
+}
+label{
+    font-size: 20px;
+}
+::placeholder{
+    font-size: 15px;
+}
+#btn1 button{
+    width: 150px;
+    height: 60px;
+    background-color: yellowgreen;
+    position: relative;
+    left: 25%;
+    top: 80%;
+    box-shadow: 2px 2px 4px black;
+    border: none;
+
+}
+
+
+
